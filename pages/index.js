@@ -179,7 +179,7 @@ const Index = ({ scroll, setPosition, screenWidth }) => {
               SAVOIR-FAIRE
             </h1>
             <p>
-              Dôtée de plus de 6 ans d'expérience dans le domaine de la communication, notre équipe <strong>développe le potentiel
+              Dôtée de plus de 6 ans d&apos;expérience dans le domaine de la communication, notre équipe <strong>développe le potentiel
                 des marques et des entreprises</strong> grâce à sa connaissance des tendances créatives actuelles.
               Notre savoir-faire repose sur la <strong>création de moyens de communication cohérents et esthétiques
                 en adéquation avec vos objectifs.</strong>
