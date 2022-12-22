@@ -41,7 +41,7 @@ const Header = ({ position, headerInvisible }) => {
                         </div>
                         <div className={style.linkContainer}>
                             <Link className={`${style.link} ${style.linkRight} ${position === 2 ? style.linkActive : hover === 2 ? style.linkHover : style.linkInactive}`} href='/#activite' onMouseEnter={() => setHover(2)} onMouseLeave={() => setHover(0)}>
-                                DOMAINES D'ACTIVITÉS
+                                DOMAINES D&apos;ACTIVITÉS
                             </Link>
                         </div>
                     </div>

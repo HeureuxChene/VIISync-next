@@ -9,7 +9,7 @@ const error404 = () => {
                 <h1 className={style.glitched404}>404</h1>
                 <h1 className={style.glitched404}>404</h1>
             </div>
-            <p id={style.textError}>Oups, cette page n'existe pas</p>
+            <p id={style.textError}>Oups, cette page n&apos;existe pas</p>
         </div>
     )
 }

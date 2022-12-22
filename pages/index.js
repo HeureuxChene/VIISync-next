@@ -149,21 +149,21 @@ const Index = ({ scroll, setPosition, screenWidth }) => {
             PRÉSENTATION
           </h1>
           <p>
-            Spécialisé dans la <strong>création de supports de communications</strong>, l'agence <strong>OYX</strong> vous accompagne dans la <strong>réalisation et la promotion de vos projets</strong>.
+            Spécialisé dans la <strong>création de supports de communications</strong>, l&apos;agence <strong>OYX</strong> vous accompagne dans la <strong>réalisation et la promotion de vos projets</strong>.
           </p>
           <p>
             <strong>NOTRE MISSION :</strong><br />
-            Définir une stratégie de communication et <strong>créer des outils adaptés</strong>, basées sur l'écoute de vos besoins.
+            Définir une stratégie de communication et <strong>créer des outils adaptés</strong>, basées sur l&apos;écoute de vos besoins.
           </p>
           <p>
-            L'équipe <strong>OYX</strong> est membre du groupement d'indépendants <strong>«TALIDAD»</strong>, vous offrant ainsi un <strong>panel plus large de compétences</strong> dans la mise en oeuvre de vos idées.
+            L&apos;équipe <strong>OYX</strong> est membre du groupement d&apos;indépendants <strong>«TALIDAD»</strong>, vous offrant ainsi un <strong>panel plus large de compétences</strong> dans la mise en oeuvre de vos idées.
           </p>
           <p>
-            Quelle que soit la nature de votre demande : Création d'un logo, d'un site internet, d'une vidéo ou d'une stratégie complète incluant divers domaines d'expertises, <strong>nous faisons de votre satisfaction notre priorité</strong>.
+            Quelle que soit la nature de votre demande : Création d&apos;un logo, d&apos;un site internet, d&apos;une vidéo ou d&apos;une stratégie complète incluant divers domaines d&apos;expertises, <strong>nous faisons de votre satisfaction notre priorité</strong>.
           </p>
           <a href='#activite'>
             <button className={style.button}>
-              Découvrez nos domaines d'activités
+              Découvrez nos domaines d&apos;activités
             </button>
           </a>
         </article>
@@ -194,7 +194,7 @@ const Index = ({ scroll, setPosition, screenWidth }) => {
               <strong>De nombreux artistes, marques et entreprises renommés nous ont déjà accordé leur confiance</strong> :
               Arkopharma, Naturland, La maison de champagne Thomas Cheurlin, Maître Savon de Marseille,
               Bioc3, Concept Verre, Seven Driver Riviera, I-SEE Airborn Observatory, Laurence Jenkell,
-              Le collectif du Dôme et bien d'autres...
+              Le collectif du Dôme et bien d&apos;autres...
             </p>
           </article>
         </div>
@@ -212,10 +212,10 @@ const Index = ({ scroll, setPosition, screenWidth }) => {
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <article id={style.activiteTitre} className='zoneText lazyText'>
             <h1>
-              DOMAINES D'ACTIVITÉS
+              DOMAINES D&apos;ACTIVITÉS
             </h1>
             <p>
-              OYX vous propose un large panel de spécialisations. Nous y maîtrisons au détail l'ensemble des aspects techniques,
+              OYX vous propose un large panel de spécialisations. Nous y maîtrisons au détail l&apos;ensemble des aspects techniques,
               vous garantissant le meilleur en terme de créativité.
             </p>
           </article>
@@ -234,7 +234,7 @@ const Index = ({ scroll, setPosition, screenWidth }) => {
             RÉFÉRENCES GRAPHIQUE
           </h1>
           <p>
-            Création d'identité visuelle, de Logo, conception de charte graphique,
+            Création d&apos;identité visuelle, de Logo, conception de charte graphique,
             de packaging, web design & développement, retouche photographique, design et mise en page pour supports
             de communication (flyer, catalogue, carte de visite, annonce presse, plaquette commerciale,
             affiches, étiquettes, etc ...).

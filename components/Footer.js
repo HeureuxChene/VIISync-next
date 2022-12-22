@@ -28,7 +28,7 @@ const Footer = () => {
                             Présentation
                         </Link>
                         <Link className={`${style.footerLink} ${style.footerLinkBlue}`} href='/#activite'>
-                            Domaines d'activités
+                            Domaines d&apos;activités
                         </Link>
                         <Link className={`${style.footerLink} ${style.footerLinkBlue}`} href='/#referenceGraphique'>
                             Références
